@@ -8,6 +8,8 @@ export default function Home() {
       </Head>
 
       <h1>Let's Build Facebook</h1>
+
+      {/* Header */}
     </div>
   )
 }
