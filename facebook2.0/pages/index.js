@@ -10,6 +10,12 @@ export default function Home() {
       <h1>Let's Build Facebook</h1>
 
       {/* Header */}
+
+      <main>
+        {/* Sidebar */}
+        {/* Feed */}
+        {/* Widgets */}
+      </main>
     </div>
   )
 }
